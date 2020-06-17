@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3uicpb49k/9HUzRd17NGytGPKVWh+EktsmX+WJnZKhoVI8cbyDmyuikkRh3a5TX6mvLp1bAF9rIDtV6ZKJrkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Ice and Fire\\source\\repos\\Exercisess\\task 2\\task 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

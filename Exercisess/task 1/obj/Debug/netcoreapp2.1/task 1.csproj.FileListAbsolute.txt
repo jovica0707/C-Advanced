@@ -1,0 +1,12 @@
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\bin\Debug\netcoreapp2.1\task 1.deps.json
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\bin\Debug\netcoreapp2.1\task 1.runtimeconfig.json
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\bin\Debug\netcoreapp2.1\task 1.runtimeconfig.dev.json
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\bin\Debug\netcoreapp2.1\task 1.dll
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\bin\Debug\netcoreapp2.1\task 1.pdb
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.csprojAssemblyReference.cache
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.csproj.CoreCompileInputs.cache
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.AssemblyInfoInputs.cache
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.AssemblyInfo.cs
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.dll
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.pdb
+C:\Users\The Ice and Fire\source\repos\Exercisess\task 1\obj\Debug\netcoreapp2.1\task 1.genruntimeconfig.cache
