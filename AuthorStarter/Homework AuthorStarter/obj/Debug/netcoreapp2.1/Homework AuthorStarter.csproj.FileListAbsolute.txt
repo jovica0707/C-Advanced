@@ -1,0 +1,12 @@
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\bin\Debug\netcoreapp2.1\Homework AuthorStarter.deps.json
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\bin\Debug\netcoreapp2.1\Homework AuthorStarter.runtimeconfig.json
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\bin\Debug\netcoreapp2.1\Homework AuthorStarter.runtimeconfig.dev.json
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\bin\Debug\netcoreapp2.1\Homework AuthorStarter.dll
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\bin\Debug\netcoreapp2.1\Homework AuthorStarter.pdb
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.csprojAssemblyReference.cache
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.csproj.CoreCompileInputs.cache
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.AssemblyInfoInputs.cache
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.AssemblyInfo.cs
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.dll
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.pdb
+C:\Users\The Ice and Fire\Desktop\AuthorStarter\Homework AuthorStarter\obj\Debug\netcoreapp2.1\Homework AuthorStarter.genruntimeconfig.cache
