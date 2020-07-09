@@ -1,0 +1,12 @@
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.deps.json
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.runtimeconfig.json
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.runtimeconfig.dev.json
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.dll
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.pdb
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.AssemblyInfo.cs
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.dll
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.pdb
+C:\Users\The Ice and Fire\Desktop\practice Asynchronous  with Async and Await\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.genruntimeconfig.cache

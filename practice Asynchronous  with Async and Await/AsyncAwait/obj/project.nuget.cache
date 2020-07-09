@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "TEWX+Y52S3IP9BAOinA0EJRr2ItQjzTF9L2X4URSoUF2bLdAziZhXvU/jvmCR2Hu4nR3oHg+j/dW38Ye7jMJ6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Ice and Fire\\Desktop\\practice Asynchronous  with Async and Await\\AsyncAwait\\AsyncAwait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\The Ice and Fire\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
